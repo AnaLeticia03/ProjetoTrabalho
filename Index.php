@@ -8,6 +8,26 @@
     <title>CADASTRO</title>
 </head>
 <body>
+    <header>
+        <h1 class="logo">
+            Logo Site
+        </h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">Início</a>
+                </li>
+                <li>
+                    <a href="#">Explorar</a>
+                </li>
+                <li>
+                    <a href="#">Sobre nós</a>
+                </li>
+            </ul>
+        </nav>
+        <a class="btn" href="#"> Cadastre-se</a>
+
+    </header>
     
 </body>
 </html>
