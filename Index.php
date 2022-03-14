@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,6 +9,7 @@
     <link rel="stylesheet" href="./Styles/index.css">
     <title>CADASTRO</title>
 </head>
+
 <body>
     <header>
         <h1 class="logo">
@@ -16,7 +18,7 @@
         <nav>
             <ul>
                 <li>
-                    <a href="#">Início</a>
+                    <a href="./Index.php">Início</a>
                 </li>
                 <li>
                     <a href="#">Explorar</a>
@@ -26,7 +28,7 @@
                 </li>
             </ul>
         </nav>
-        <a class="btn" href="#"> Cadastre-se</a>
+        <a class="btn" href="./View/cadastro.php"> Cadastre-se</a>
 
     </header>
 
@@ -34,7 +36,7 @@
         <section id="bloco1" class="bloco">
             <div class="coluna" id="esquerda">
                 <div id="titulo">
-                  <h1>Psicologia e tecnologia</h1>
+                    <h1>Psicologia e tecnologia</h1>
                 </div>
                 <div id="cta">
                     <div class="conteudo">
@@ -46,6 +48,7 @@
 
             </div>
             <div class="coluna" id="direita">
+               <img src="./Assets/MulherVisitandoPsicologa.png" alt="Imagem de apresentação do site">
 
             </div>
         </section>
@@ -53,11 +56,11 @@
         <section id="bloco2" class="bloco">
             2
         </section>
-            
+
         <section id="bloco3" class="bloco">
             3
         </section>
-            
+
         <section id="bloco4" class="bloco">
             4
         </section>
@@ -70,6 +73,7 @@
             6
         </section>
     </main>
-    
+
 </body>
+
 </html>

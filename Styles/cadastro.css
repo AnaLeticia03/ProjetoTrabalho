@@ -1,0 +1,21 @@
+main{
+    display: flex;
+    flex-direction: row;
+}
+#direita{
+    width: 50%;
+    align-items: center;
+    text-align: center;
+}
+#esquerda{
+    width: 50%;
+    align-items: center;
+    text-align: center;
+}
+#direita form{
+    margin: 0% auto;
+
+}
+#esquerda form{
+    margin: 0% auto;
+}
